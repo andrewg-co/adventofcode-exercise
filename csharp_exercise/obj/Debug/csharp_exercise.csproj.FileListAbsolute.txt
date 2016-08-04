@@ -1,0 +1,22 @@
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\csharp_exercise.exe.config
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\csharp_exercise.exe
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\csharp_exercise.pdb
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\obj\Debug\csharp_exercise.csprojResolveAssemblyReference.cache
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\obj\Debug\csharp_exercise.exe
+c:\users\ee0ymvc\documents\visual studio 2015\Projects\csharp_exercise\csharp_exercise\obj\Debug\csharp_exercise.pdb
+C:\Users\ee0ymvc\Documents\Visual Studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\santasproblems\day1_input.txt
+C:\Users\ee0ymvc\Documents\Visual Studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\santasproblems\day2_input.txt
+C:\Users\ee0ymvc\Documents\Visual Studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\santasproblems\day3_input.txt
+C:\Users\ee0ymvc\Documents\Visual Studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\santasproblems\day5_input.txt
+C:\Users\ee0ymvc\Documents\Visual Studio 2015\Projects\csharp_exercise\csharp_exercise\bin\Debug\santasproblems\day6_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\csharp_exercise.exe.config
+C:\GitHub\adventofcode-exercise\csharp_exercise\obj\Debug\csharp_exercise.exe
+C:\GitHub\adventofcode-exercise\csharp_exercise\obj\Debug\csharp_exercise.pdb
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day1_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day2_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day3_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day5_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day6_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\csharp_exercise.exe
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\csharp_exercise.pdb
+C:\GitHub\adventofcode-exercise\csharp_exercise\obj\Debug\csharp_exercise.csprojResolveAssemblyReference.cache
