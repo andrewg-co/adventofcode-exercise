@@ -20,3 +20,5 @@ C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day6_in
 C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\csharp_exercise.exe
 C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\csharp_exercise.pdb
 C:\GitHub\adventofcode-exercise\csharp_exercise\obj\Debug\csharp_exercise.csprojResolveAssemblyReference.cache
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day7_input.txt
+C:\GitHub\adventofcode-exercise\csharp_exercise\bin\Debug\santasproblems\day8_input.txt

@@ -21,6 +21,8 @@ namespace csharp_exercise
             Console.WriteLine("4. AdventCoins");
             Console.WriteLine("5. NaughtyOrNiceStrings");
             Console.WriteLine("6. LightGrid");
+            Console.WriteLine("7. BitwiseLogicGates");
+            Console.WriteLine("8. LiteralVsMemoryString");
             Console.WriteLine("\nEnter any other key to exit...\n\n");
             int userInput;
 
@@ -85,7 +87,23 @@ namespace csharp_exercise
                         Day6.LightGrid();
                         break;
                     case 7:
-
+                        // This year, Santa brought little Bobby Tables a set of wires and bitwise logic gates! Unfortunately, little Bobby is 
+                        // a little under the recommended age range, and he needs help assembling the circuit. Each wire has an identifier 
+                        // (some lowercase letters) and can carry a 16 - bit signal(a number from 0 to 65535).A signal is provided to each 
+                        // wire by a gate, another wire, or some specific value. Each wire can only get a signal from one source, but can 
+                        // provide its signal to multiple destinations.A gate provides no signal until all of its inputs have a signal.
+                        Day7.BitwiseLogicGates();
+                        break;
+                    case 8:
+                        // Space on the sleigh is limited this year, and so Santa will be bringing his list as a digital copy. He needs to 
+                        // know how much space it will take up when stored.
+                        //
+                        // Santa's list is a file that contains many double-quoted string literals, one on each line. The only escape sequences 
+                        // used are \\ (which represents a single backslash), \" (which represents a lone double-quote character), and \x plus 
+                        // two hexadecimal characters (which represents a single character with that ASCII code). Disregarding the whitespace 
+                        // in the file, what is the number of characters of code for string literals minus the number of characters in memory 
+                        // for the values of the strings in total for the entire file ?
+                        Day8.LiteralVsMemoryString(); //TODO: Does not work
                         break;
                     default:
                         Environment.Exit(0);
@@ -314,8 +332,6 @@ namespace csharp_exercise
                 possibleNumbers++;
 
             } while (possiblehash != "00000");
-
-
 
             Console.WriteLine(input);
 
