@@ -23,6 +23,8 @@ namespace csharp_exercise
             Console.WriteLine("6. LightGrid");
             Console.WriteLine("7. BitwiseLogicGates");
             Console.WriteLine("8. LiteralVsMemoryString");
+            Console.WriteLine("9. DistanceCalc");
+            Console.WriteLine("10. LookAndSay");
             Console.WriteLine("\nEnter any other key to exit...\n\n");
             int userInput;
 
@@ -104,6 +106,24 @@ namespace csharp_exercise
                         // in the file, what is the number of characters of code for string literals minus the number of characters in memory 
                         // for the values of the strings in total for the entire file ?
                         Day8.LiteralVsMemoryString(); //TODO: Does not work
+                        break;
+                    case 9:
+                        // Every year, Santa manages to deliver all of his presents in a single night.
+                        //
+                        // This year, however, he has some new locations to visit; his elves have provided him the distances between every pair 
+                        // of locations. He can start and end at any two (different)locations he wants, but he must visit each location exactly 
+                        // once.What is the shortest distance he can travel to achieve this ?
+                        Day9.DistanceCalc(); // TODO: unknown implementation
+                        break;
+                    case 10:
+                        // Today, the Elves are playing a game called look-and-say. They take turns making sequences by reading aloud the 
+                        // previous sequence and using that reading as the next sequence. For example, 211 is read as "one two, two ones", 
+                        // which becomes 1221 (1 2, 2 1s).
+                        //
+                        // Look - and - say sequences are generated iteratively, using the previous value as input for the next step. For 
+                        // each step, take the previous value, and replace each run of digits(like 111) with the number of digits(3) followed 
+                        // by the digit itself(1).
+                        Day10.LookAndSay();
                         break;
                     default:
                         Environment.Exit(0);
